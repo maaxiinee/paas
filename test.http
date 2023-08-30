@@ -1,5 +1,5 @@
-@url = https://paastest01mgr.azurewebsites.net
-#@url = http://20.203.171.101
+#@url = https://paastest01mgr.azurewebsites.net
+@url = http://localhost:500
 
 ### Get all students
 
